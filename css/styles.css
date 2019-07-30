@@ -74,20 +74,20 @@ a:hover { color: #AF0000; }
 }
 
 .huskill {
-  width: 100px;
+  width: 20%;
   float: left;
   margin-right: 20px;
 }
 
 .suitskill {
-  width: 100px;
+  width: 20%;
   float: right;
   margin-left: 20px;
 }
 
 .skill-row {
   width: 50%;
-  margin: 30px auto;
+  margin: 30px auto 60px;
   text-align: left;
 }
 
